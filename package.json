@@ -16,9 +16,6 @@
     "url": "https://github.com/zimmo-be/twig-loader/issues"
   },
   "homepage": "https://github.com/zimmo-be/twig-loader#readme",
-  "peerDependencies": {
-    "twig": "~1.10.5"
-  },
   "dependencies": {
     "async": "^2.6.4",
     "hasha": "^3.0.0",
